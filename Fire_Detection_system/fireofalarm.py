@@ -13,7 +13,7 @@ def notifyMe(title, message):
    notification.notify(
       title=title,
       message=message,
-      app_icon = "C:\\Users\\pc\\Desktop\\images\\mail.ico",
+      app_icon = "C:\\Users\\pc\\Desktop\\Fire_Detection_system\\mail.ico",
       timeout=50,
    )
 
